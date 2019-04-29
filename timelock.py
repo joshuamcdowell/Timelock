@@ -1,5 +1,8 @@
-
-
+# Program 5 - Timelock
+# Team: Babylonians
+# Group Members: Martin Brock, John Chung, Casey Fernandez,William Francis,Joshua McDowell, Reid Naylor,    	Zachary Rogers
+# Date: 4/29/2019
+# Github: https://github.com/joshuamcdowell/Timelock.git
 
 import sys
 from datetime import datetime
